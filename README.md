@@ -1,4 +1,4 @@
-# c_with_classes_projects
+# cpp_projects
 
 Creating simple programs in c++  
 Practicing my programming skills 💪🏻
